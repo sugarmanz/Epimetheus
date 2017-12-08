@@ -1,4 +1,9 @@
-# RLBot
+# Epimetheus - Titan of afterthought and the father of excuses
+
+Appropriately named custom Rocket League bot that is built on the bot framework below.
+
+
+# [RLBot](https://github.com/drssoccer55/RLBot/)
 
 <p align="center">
   <img width="512" height="158" src="https://github.com/drssoccer55/RLBot/blob/master/images/RLBot.png">
